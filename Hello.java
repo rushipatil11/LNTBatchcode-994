@@ -1,6 +1,8 @@
 class Hello{
 
    public static void main(String[] args){
+    
+String o="oooo";
 
    int a=11;
       int q=444;
