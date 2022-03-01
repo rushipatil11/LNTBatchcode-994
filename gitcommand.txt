@@ -1,0 +1,27 @@
+git init
+ --> initialize a empty git repository 
+
+git status
+ --> to get the current status
+
+git add HelloWorld.java
+ --> select HelloWorld.java for commit
+ --> HelloWorld.java is in staging area
+
+git commit -m "1st commit"
+ -->commited in the local repository
+
+git config --global user.email="uremail id"
+ --> to configure email id
+
+git config user.email
+ --> to check configuration
+
+git log
+  -> to get the history
+
+modified helloWorld.java by adding int a=10;
+
+git status
+ -->
+ git reset --hard <<version-id>>

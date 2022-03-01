@@ -6,6 +6,8 @@ class Hello{
 
 
    System.out.println("hello git");
+
+      int j=85;
 }
   
 
