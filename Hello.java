@@ -4,6 +4,7 @@ class Hello{
 
    int a=11;
       int q=444;
+   String s="ryshj";
 
 
    System.out.println("hello git");
